@@ -27,7 +27,7 @@ Manually analyzing multiple pavement sections in IITPAVE is time-consuming. This
 
 **Technologies Used**
 
-Python 3
+• Language- Python 3
 
 • openpyxl library– for writing Excel files
 
