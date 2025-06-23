@@ -88,7 +88,7 @@ for E2 in E2_values:
 
             
             # write in excel
-            row = [E1, round(E1 / E2, 2), h1]
+            row = [E1, round(E1 / E2, 1), h1]
 
             # Add values at depth h1
             for key in ["sigz", "sigt", "sigr", "tau", "epz", "ept", "epr"]:
