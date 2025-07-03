@@ -36,3 +36,13 @@ Manually analyzing multiple pavement sections in IITPAVE is time-consuming. This
 • re module– to parse scientific notation values
 
 • IITPAVE.exe – flexible pavement analysis tool
+
+Complete execution of code in terminal-
+
+![Screenshot 2025-07-03 104753](https://github.com/user-attachments/assets/1543efd8-c261-43eb-9ae6-b79f11497490)
+
+Manual checking for 1 input case- 
+
+![Screenshot 2025-07-03 104820](https://github.com/user-attachments/assets/8ed8b532-bc2e-4547-816e-56517a546099)
+
+
